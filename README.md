@@ -1,4 +1,4 @@
-# Basic-Snake
+# BASIC-Snake
 
 I was inspired to try create my own version of Snake in applesoft basic after watching [this awesome video by the Coding Train](https://www.youtube.com/watch?v=7r83N3c2kPw).
 
